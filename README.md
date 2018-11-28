@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-## [v0.0.2](https://github.com/littleflute/piano/edit/master/README.md)
+## [v0.0.3](https://github.com/littleflute/piano/edit/master/README.md)
 ## [https://littleflute.github.io/bluespiano/](https://littleflute.github.io/bluespiano/)
 
 You can use the [editor on GitHub](https://github.com/littleflute/piano/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -37,3 +37,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+<script src="https://www.w3schools.com/lib/w3.js"></script>
+
+<script src="https://littleflute.github.io/JavaScript/blclass.js"></script>
+
+<script src="https://littleflute.github.io/JavaScript/blApp.js"></script>
