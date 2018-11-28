@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-## [v0.0.4](https://github.com/littleflute/piano/edit/master/README.md)
+## [v0.0.5](https://github.com/littleflute/piano/edit/master/README.md)
 ## [https://littleflute.github.io/bluespiano/](https://littleflute.github.io/bluespiano/)
 
 You can use the [editor on GitHub](https://github.com/littleflute/piano/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
