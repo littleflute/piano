@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
-## [v0.0.11](https://github.com/littleflute/piano/edit/master/README.md)
+## [v0.0.12](https://github.com/littleflute/piano/edit/master/README.md)
 ## [https://littleflute.github.io/bluespiano/](https://littleflute.github.io/bluespiano/)
+## [拜厄钢琴基本教程(上下册)（少儿教学版）.pdf](拜厄钢琴基本教程(上下册)（少儿教学版）.pdf)
 
 You can use the [editor on GitHub](https://github.com/littleflute/piano/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
