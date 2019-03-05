@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
-## [v0.0.13](https://github.com/littleflute/piano/edit/master/README.md)
+## [v0.0.14](https://github.com/littleflute/piano/edit/master/README.md)
 ## [【music】](https://littleflute.github.io/music/)
+## [PDFs](PDFs)
 ## [https://littleflute.github.io/bluespiano/](https://littleflute.github.io/bluespiano/)
 ## [拜厄钢琴基本教程(上下册)（少儿教学版）.pdf](拜厄钢琴基本教程(上下册)（少儿教学版）.pdf)
 
